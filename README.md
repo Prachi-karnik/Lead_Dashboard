@@ -27,9 +27,11 @@ The dataset contains **2,000 fictional leads** created between January and Septe
 
 ### Summary
 Provides an overall view of the lead base and key CRM metrics.
+<img width="1328" height="469" alt="Screenshot 2026-09-27 133842" src="https://github.com/user-attachments/assets/976eb6de-c118-4433-897a-9e057fe21fd2" />
 
 ### Findings
 Summarizes the major observations identified through the analysis and corresponding action points.
+<img width="1066" height="857" alt="image" src="https://github.com/user-attachments/assets/896c7b2c-a56b-40d6-a8c8-c96f232a6091" />
 
 ### Pipeline
 Analyzes lead outcomes and the current open pipeline by status.
