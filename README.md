@@ -33,9 +33,11 @@ Summarizes the major observations identified through the analysis and correspond
 
 ### Pipeline
 Analyzes lead outcomes and the current open pipeline by status.
+<img width="1508" height="838" alt="Screenshot 2026-09-27 133622" src="https://github.com/user-attachments/assets/6fb1f221-571d-48e6-9866-1248c0de8ec9" />
 
 ### Campaigns
 Compares lead generation and pipeline performance across campaigns.
+<img width="1876" height="821" alt="Screenshot 2026-09-27 133421" src="https://github.com/user-attachments/assets/d67ae7c9-1d24-4a30-8357-890fc3a77127" />
 
 ### Owners
 Analyzes lead assignment and owner-level performance.
@@ -48,6 +50,7 @@ Provides geographic analysis of lead volume, conversion, decline and activity.
 
 ### Quantity
 Analyzes leads based on estimated requirement / quantity in square feet.
+<img width="1868" height="851" alt="Screenshot 2026-09-27 133645" src="https://github.com/user-attachments/assets/98947fa8-6177-48a2-8073-5c4bdffed812" />
 
 ### Declines
 Analyzes declined leads by reason, reason group, type and other characteristics.
