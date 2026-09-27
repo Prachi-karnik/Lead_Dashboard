@@ -46,9 +46,11 @@ Analyzes lead assignment and owner-level performance.
 
 ### Activity
 Identifies leads with and without a next follow-up date to highlight follow-up gaps.
+<img width="1790" height="792" alt="image" src="https://github.com/user-attachments/assets/ea107baf-98b8-4065-84ca-b0aa56729762" />
 
 ### Cities
 Provides geographic analysis of lead volume, conversion, decline and activity.
+<img width="1728" height="864" alt="image" src="https://github.com/user-attachments/assets/eba56057-f82d-4f1b-b1f6-b13001233c6e" />
 
 ### Quantity
 Analyzes leads based on estimated requirement / quantity in square feet.
